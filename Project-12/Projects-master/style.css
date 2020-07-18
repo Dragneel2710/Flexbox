@@ -1,0 +1,13 @@
+.font{
+  font-family : 'Times New Roman', Times, serif;
+}
+
+.wrap{
+  flex-direction: row;
+}
+
+.down{
+  border-style : groove;
+  justify-content : space-between;
+  flex-direction: column-reverse;
+}
